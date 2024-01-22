@@ -36,7 +36,7 @@ Frontend: React.js
 Integration : Java, Python.
 
 ## Project Contributors
-<a href="" target="_blank">Siya Gampawar</a>
+<a href="github.com/siyagampawar" target="_blank">Siya Gampawar</a>
 <a href="" target="_blank">Om sangamwar</a>
 <a href="" target="_blank">Aadi Ringay</a>
 
